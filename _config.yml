@@ -1,14 +1,14 @@
-title: Name  # You can add your name here
+title: Italo Carnevale
 
-logo: 1.png # Use a relative path to logo image 
+logo: profile.jpg
 
-description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
+description: IT Enterprise Architect / Advisor
 
-show_downloads: true # Fix spelling
+show_downloads: true
 
 theme: jekyll-theme-minimal 
 
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+  - jekyll-seo-tag
 
-email: youremail@gmail.com # Allow visitors to contact you
+email: italocarnevale@gmail.com # Allow visitors to contact you
