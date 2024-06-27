@@ -1,4 +1,5 @@
-# IT Enterprise Architect / Advisor
+# Enterprise Architect
+### _Current Position - Enterprise Architect - Imola Informatica S.p.A._
 
 ## Summary
 
@@ -9,3 +10,5 @@
 ## Skills
 
 ## Contacts
+
+## About me
