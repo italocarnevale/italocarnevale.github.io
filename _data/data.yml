@@ -44,6 +44,13 @@ sidebar:
       level: C1
 
   interests:
+    title: Interessi
+    info:
+    - item: Sport e attività fisica
+    - item: Tecnologia e side project personali
+    - item: Montagna e mare
+    - item: Restauro di una Vespa d'epoca (anni '60)
+    - item: Vita all'aperto in campagna, cura dell'orto
 
 career-profile:
   title: Profilo
