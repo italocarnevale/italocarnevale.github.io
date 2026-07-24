@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: italocarnevale@gmail.com
-  phone: '+39 328 869 2259'
+  phone: +39 328 869 2259
   timezone: Europe/Rome
   citizenship: Italiana
   website: https://www.italocarnevale.it
@@ -93,15 +93,15 @@ experiences:
     time: 2015 - Attuale
     company: Imola Informatica S.p.A., Imola (BO)
     details: |
-      Revisione e definizione dei processi di Enterprise Architecture e della mappa applicativa
-      dell'intero sistema informativo (CMDB, tipicamente centinaia di applicazioni negli istituti
-      bancari seguiti). Supporto ai processi di IT Governance e IT Risk. Supporto alla definizione
-      dell'architettura target a microservizi. Messa in produzione di un sistema antifrode basato su
-      Machine Learning, con introduzione e industrializzazione della metodologia MLOps. Progettazione
-      e revisione di architetture per applicazioni Machine Learning e Intelligenza Artificiale, incluse
-      iniziative di introduzione dell'AI in azienda su più ambiti. Assessment architetturali;
-      coordinamento di gruppi di lavoro multi-progetto presso clienti (da singolo consulente a ~15
-      persone). Supporto ai processi interni aziendali (HR, controllo di gestione, fatturazione e
+      Revisione e definizione dei processi di Enterprise Architecture, secondo un approccio Architecture as
+      Code, e della mappa applicativa dell'intero sistema informativo (CMDB, tipicamente centinaia di
+      applicazioni negli istituti bancari seguiti). Business Capability Mapping. Supporto ai processi di IT
+      Governance e IT Risk. Supporto alla definizione dell'architettura target a microservizi. Messa in
+      produzione di un sistema antifrode basato su Machine Learning, con introduzione e industrializzazione
+      della metodologia MLOps. Progettazione e revisione di architetture per applicazioni Machine Learning e
+      Intelligenza Artificiale, incluse iniziative di introduzione dell'AI in azienda su più ambiti. Assessment
+      architetturali; coordinamento di gruppi di lavoro multi-progetto presso clienti (da singolo consulente a
+      ~15 persone). Supporto ai processi interni aziendali (HR, controllo di gestione, fatturazione e
       consuntivazione) e partecipazione a tavoli di governance strategica interna.
 
       Clienti principali: Banca Mediolanum (dal 2013), IOR - Istituto per le Opere di Religione
@@ -185,16 +185,16 @@ publications:
   intro:
   papers:
   - title: 'Architecture as Code in Industry: A Multiple-Case Empirical Study'
-    link: "https://www.es.mdu.se/pdf_publications/7350.pdf"
+    link: https://www.es.mdu.se/pdf_publications/7350.pdf
     authors: Pontillo Valeria, Bucaioni Alessio, Carnevale Italo, Di Salle Amleto, Manzoni Lorenzo, Pelliccione Patrizio, Sprotetto Francesco Maria
     conference: IEEE International Conference on Software Architecture (ICSA) 2026, Amsterdam - in collaborazione con Gran Sasso Science Institute e Mälardalen University
 
 skills:
   title: Competenze &amp; Aree di Expertise
-  # NOTA: le percentuali qui sotto sono una MIA proposta indicativa basata su anzianità/centralità
+  # NOTA: le percentuali qui sotto sono una stima indicativa basata su anzianità/centralità
   # nel ruolo, non un dato misurato - correggile secondo la tua auto-valutazione reale.
   toolset:
-  - name: Enterprise Architecture (TOGAF, ITIL, Cobit, ArchiMate, CMDB...)
+  - name: Enterprise Architecture (TOGAF, ITIL, Cobit, ArchiMate, CMDB, Architecture as Code, Business Capability Mapping...)
     level: 95%
 
   - name: Software Development & DevOps (Microservizi, CI/CD, Docker/Kubernetes...)
